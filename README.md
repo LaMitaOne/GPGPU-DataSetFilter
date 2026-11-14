@@ -46,4 +46,7 @@ Hits := FGPUFilter.Filter('YUTA', 0, 0.0, TotalMatches);
      
 * **Delphi** (VCL / FireDAC for the included demo; `uDataSetGPUFilter.pas` itself only requires standard `Data.DB` and `Winapi.OpenGLext`).     
 * Any Windows GPU/driver supporting **OpenGL 4.3+** (NVIDIA, AMD, or Intel integrated graphics).     
-* **No third-party DLLs** required.     
+* **No third-party DLLs** required.
+
+
+ Exe and sample project included    
