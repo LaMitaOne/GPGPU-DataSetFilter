@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.11.14 18:34:18.143,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.11.14 18:34:37.437,C:\Users\Lenovo\Downloads\DatasetGPUFilter\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.11.14 18:34:37.437,C:\Users\Lenovo\Downloads\DatasetGPUFilter\Unit1.dfm=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2026.11.14 18:34:41.776,C:\Users\Lenovo\Downloads\DatasetGPUFilter\Project1.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2026.11.14 18:34:44.771,=C:\Users\Lenovo\Downloads\DatasetGPUFilter\Unit2.pas</Transaction>
+    <Transaction>2026.11.14 18:35:27.238,C:\Users\Lenovo\Downloads\DatasetGPUFilter\uDataSetGPUFilter.pas=C:\Users\Lenovo\Downloads\DatasetGPUFilter\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
