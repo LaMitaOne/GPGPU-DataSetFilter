@@ -1,6 +1,5 @@
 {*******************************************************************************
   uDataSetGPUFilter.pas v0.1
-  Part of Yutani Engine / GPGPU Tools
 
   Headless OpenGL 4.3 Compute Shader filter for standard Delphi TDataSet
   components (TFDMemTable, TFDQuery, TClientDataSet, etc.).
