@@ -5,6 +5,8 @@
   components (TFDMemTable, TFDQuery, TClientDataSet, etc.).
   Performs parallel range, category, and 16-char substring searches across
   millions of rows in VRAM within a few milliseconds without external DLLs.
+
+  Author:  Lara Miriam Tamy Reschke / LaMitaOne
 *******************************************************************************}
 unit uDataSetGPUFilter;
 
