@@ -50,3 +50,10 @@ Hits := FGPUFilter.Filter('YUTA', 0, 0.0, TotalMatches);
 
 
  Exe and sample project included    
+      
+## Tip: Automatic GPU Capability & Fallback Detection      
+     
+Before dispatching millions of rows in a production application, you may want to check whether the user's machine supports OpenGL 4.3 Compute Shaders, verify available VRAM (`Max SSBO Size`), or fall back to a classic CPU loop on older office hardware/VMs.     
+     
+Check out **[Yutani-GPUInfo](https://github.com/LaMitaOne/Yutani-GPUInfo)** — a companion single-file, zero-dependency Delphi unit that detects OpenGL 4.3+ compute support, available VRAM, and real-world compute shader speed in ~15 ms.    
+      
