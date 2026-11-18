@@ -1,7 +1,5 @@
 # GPGPU-DataSetFilter
     
-I have Birthday today and have a gift...for you :D a new toy to play with.        
-
 A lightweight, zero-dependency **OpenGL 4.3 Compute Shader** filter for standard Delphi `TDataSet` components (`TFDMemTable`, `TFDQuery`, `TClientDataSet`, etc.).     
      
 It demonstrates how to use modern **GPGPU (General-Purpose Computing on Graphics Processing Units)** in pure Delphi VCL applications—without any rendering window, external DLLs, CUDA, or OpenCL—to filter and search **millions of database records in just a few milliseconds**.     
